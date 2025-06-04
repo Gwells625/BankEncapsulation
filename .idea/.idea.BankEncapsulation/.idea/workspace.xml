@@ -8,17 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5e4f8b7-3d4b-4d9e-a72b-612a54cfcfe2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BankEncapsulation/BankAccount.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankEncapsulation/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankEncapsulation/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankEncapsulation/obj/BankEncapsulation.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BankEncapsulation/obj/BankEncapsulation.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankEncapsulation/obj/BankEncapsulation.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BankEncapsulation/obj/BankEncapsulation.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankEncapsulation/obj/Debug/net9.0/BankEncapsulation.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankEncapsulation/obj/Debug/net9.0/BankEncapsulation.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankEncapsulation/obj/Debug/net9.0/BankEncapsulation.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BankEncapsulation/obj/Debug/net9.0/BankEncapsulation.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankEncapsulation/obj/Debug/net9.0/BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/BankEncapsulation/obj/Debug/net9.0/BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankEncapsulation/obj/Debug/net9.0/BankEncapsulation.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BankEncapsulation/obj/Debug/net9.0/BankEncapsulation.GlobalUsings.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankEncapsulation/obj/Debug/net9.0/BankEncapsulation.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BankEncapsulation/obj/Debug/net9.0/BankEncapsulation.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankEncapsulation/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BankEncapsulation/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankEncapsulation/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BankEncapsulation/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BankEncapsulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BankEncapsulation/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748027098241</updated>
       <workItem from="1748027100907" duration="2278000" />
-      <workItem from="1748460486968" duration="3973000" />
+      <workItem from="1748460486968" duration="4444000" />
     </task>
     <servers />
   </component>
@@ -92,5 +82,24 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BankEncapsulation/Program.cs</url>
+          <line>17</line>
+          <properties documentPath="$PROJECT_DIR$/BankEncapsulation/Program.cs" containingFunctionPresentation="Method 'Main'">
+            <startOffsets>
+              <option value="487" />
+            </startOffsets>
+            <endOffsets>
+              <option value="488" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

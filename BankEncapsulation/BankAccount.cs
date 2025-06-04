@@ -12,7 +12,7 @@ public class BankAccount
 
     public void Deposit(double amount)//Encapsulation
     {
-        balance = amount;
+        balance += amount;
     }
     
     //Define a method named GetBalance that 
